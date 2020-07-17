@@ -1,4 +1,12 @@
-#### Hi there 👋
+### Hello everyone 👋 i am Khanh :3 
+
+## Introduce:
+# 
+# - Facebook: 
+# - Twitter:
+# - Youtube:
+# - Mail contact: veda5252@outlook.com or vedakinvn@gmail.com 
+# 
 
 <!--
 **veda5252/veda5252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
